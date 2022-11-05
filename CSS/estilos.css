@@ -23,6 +23,7 @@ body{
 }
 
 .titulo{
+
     color: #602a73;
     font-size: 30px;
     text-align: center;
@@ -138,8 +139,9 @@ header .textos-head{
 
 .galeriacontent{
     display: flex;
-    justify-content: space-evenly;
+    justify-content: left;
     flex-wrap: wrap;
+    margin-left: 2px;
 }
 
 .imagecontent{
